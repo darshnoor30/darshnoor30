@@ -27,14 +27,14 @@ observe → enrich → detect → explain → prioritize → defend
     <td width="50%" valign="top">
       <h3>🛰️ SentinelScan</h3>
       <p><strong>AI-powered phishing URL detection platform</strong></p>
-      <p>End-to-end React + FastAPI security platform combining 31 engineered URL/domain features, Random Forest classification, SSL/DNS/WHOIS analysis, threat-intelligence integrations, explainable risk scoring, scan history, and analytics.</p>
-      <p><code>React</code> <code>FastAPI</code> <code>Machine Learning</code> <code>SQLAlchemy</code> <code>Threat Intelligence</code></p>
+      <p>End-to-end React + FastAPI security platform combining 31 engineered URL/domain features, Random Forest classification, SSL/DNS/WHOIS analysis, explainable risk scoring, scan analytics, 18 deterministic tests, CI, and Docker support.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>Machine Learning</code> <code>Pytest</code> <code>Docker</code></p>
       <a href="https://github.com/darshnoor30/SentinelScan"><strong>Explore the flagship project →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ SentinelNet</h3>
       <p><strong>Explainable network detection and SOC console</strong></p>
-      <p>Scapy-based packet-metadata pipeline with typed service rules, rolling-window port-scan detection, normalized alerts, analyst filters, severity analytics, a priority queue, safe demo data, and automated quality gates.</p>
+      <p>Scapy-based packet-metadata pipeline with typed service rules, rolling-window port-scan detection, normalized alerts, analyst filters, severity analytics, a priority queue, safe demo data, 17 tests, and two-version CI.</p>
       <p><code>Python</code> <code>Scapy</code> <code>Streamlit</code> <code>Plotly</code> <code>Pytest</code></p>
       <a href="https://github.com/darshnoor30/SentinelNet"><strong>Open the SOC project →</strong></a>
     </td>
@@ -43,15 +43,15 @@ observe → enrich → detect → explain → prioritize → defend
     <td width="50%" valign="top">
       <h3>🌐 Cybersecurity Portfolio</h3>
       <p><strong>Interactive project and experience showcase</strong></p>
-      <p>Responsive GitHub Pages portfolio presenting security case studies, technical skills, credentials, and a downloadable résumé with accessible navigation and reduced-motion support.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Vite</code> <code>GitHub Pages</code></p>
+      <p>Responsive GitHub Pages portfolio presenting verified security case studies, technical skills, credentials, and a downloadable résumé with accessible navigation, reduced-motion support, and build CI.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Vite</code> <code>GitHub Actions</code></p>
       <a href="https://darshnoor30.github.io/"><strong>Visit the live portfolio →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎣 Phishing Email Detector</h3>
       <p><strong>Transparent rule-based phishing analysis</strong></p>
-      <p>A fundamentals project that scores suspicious keywords and links, reports matched indicators, and offers both terminal and Tkinter interfaces.</p>
-      <p><code>Python</code> <code>Tkinter</code> <code>Rule-based Detection</code></p>
+      <p>An offline, explainable engine that weights social-engineering language and URL heuristics, reports evidence and next steps, and offers CLI plus Tkinter interfaces with a 10-test, 90% coverage gate.</p>
+      <p><code>Python</code> <code>Tkinter</code> <code>Pytest</code> <code>GitHub Actions</code></p>
       <a href="https://github.com/darshnoor30/phishing-email-detector"><strong>View the foundation project →</strong></a>
     </td>
   </tr>
